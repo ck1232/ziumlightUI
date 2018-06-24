@@ -1,0 +1,20 @@
+ul.products {
+	margin: 0 0 1em;
+	padding: 0;
+	list-style: none outside;
+	clear: both;
+}
+
+div.header_title_wrap{
+	margin-top: 20px;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-image: url('http://via.placeholder.com/1800x180');
+	background-position: center;
+	min-height: 180px;
+}
+
+div.header_title_description{
+	margin: auto;
+	max-width: 900px;
+}
